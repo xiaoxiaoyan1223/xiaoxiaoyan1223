@@ -25,6 +25,8 @@ You can click the Preview link to take a look at your changes.
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 <!-- GitHub数据统计 -->
 <div align="center">
   <img height="100px" src="https://github-readme-stats.vercel.app/api?username=xiaoxiaoyan1223&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
