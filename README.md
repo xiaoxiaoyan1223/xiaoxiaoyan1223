@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## GitHub Infos
-div align="center">
+<div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
